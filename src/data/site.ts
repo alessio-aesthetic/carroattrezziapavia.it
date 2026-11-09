@@ -5,7 +5,6 @@ export const site = {
   tel: '3508922659',
   city: 'Pavia',
   name: 'Carroattrezzi Pavia',
-  address: 'Pavia e provincia',
   title: 'Carroattrezzi Pavia 24H | Soccorso stradale',
   phone: '350 892 2659',
   email: 'assistenza@carroattrezziapavia.it',
